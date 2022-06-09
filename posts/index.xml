@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Tse Xin&#39;s Work Experience at Science Centre DFS</title>
+    <link>https://github.com/taytsexin/taytsexxin.github.io.git/posts/</link>
+    <description>Recent content in Posts on Tse Xin&#39;s Work Experience at Science Centre DFS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jun 2022 15:41:59 +0800</lastBuildDate><atom:link href="https://github.com/taytsexin/taytsexxin.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1</title>
+      <link>https://github.com/taytsexin/taytsexxin.github.io.git/posts/2022-05-30/</link>
+      <pubDate>Thu, 09 Jun 2022 15:41:59 +0800</pubDate>
+      
+      <guid>https://github.com/taytsexin/taytsexxin.github.io.git/posts/2022-05-30/</guid>
+      <description>Day 1: I learnt how to make a website using Visual Studio Code, Github, Gitbash etc. It was fun to meet new people</description>
+    </item>
+    
+    <item>
+      <title>Day 2</title>
+      <link>https://github.com/taytsexin/taytsexxin.github.io.git/posts/2022-05-31/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/taytsexin/taytsexxin.github.io.git/posts/2022-05-31/</guid>
+      <description>Day 2: I learnt how to use a laser cutter andmade a few light boxes as tokens of appreciation for Science Centre competitions. It was fuun</description>
+    </item>
+    
+  </channel>
+</rss>
