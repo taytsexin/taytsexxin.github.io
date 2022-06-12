@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Tse Xin&#39;s Work Experience at Science Centre DFS</title>
-    <link>https://taytsexin.github.io/taytsexxin.github.io/tags/</link>
+    <link>https://github.com/taytsexin/taytsexxin.github.io.git/tags/</link>
     <description>Recent content in Tags on Tse Xin&#39;s Work Experience at Science Centre DFS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://taytsexin.github.io/taytsexxin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/taytsexin/taytsexxin.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
