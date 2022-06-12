@@ -1,0 +1,4 @@
+[submodule "taytsexxin.github.io"]
+	path = taytsexxin.github.io
+	url = https://github.com/taytsexin/taytsexxin.github.io.git/
+	branch = main
